@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErinTomorri
 - 👀 I’m a 16 year old software developer
-- 🌱 I’m currently intrested in Solidity, Blockchain, Python and Web3
+- 🌱 I’m currently intrested in Web-automation,Solidity, Blockchain, Python and Web3
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me tomorrierin@gmail.com
 
