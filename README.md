@@ -5,9 +5,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/erin-tomorri/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="erin@erintomorri.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://www.erintomorri.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  </a>
 </div>
 
 ###
@@ -74,6 +80,63 @@
 
 ###
 
-<div align="center"> <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ErinTomorri&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErinTomorri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErinTomorri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ErinTomorri/ErinTomorri/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
 ###
