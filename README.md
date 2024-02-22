@@ -73,11 +73,7 @@
 <div align="left">
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/ErinTomorri/ErinTomorri/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
 </div>
