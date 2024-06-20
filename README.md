@@ -9,7 +9,7 @@
 
 ###
 
-<h5 align="left">Hey! I'm Erin from Toronto<br><br>- 🔭 I’m a Computer Engineering Student at TMU<br>- 📚 I'm currently studying for my AWS Cloud Practitoner Cert<br>- ⚡ In my free time I love to create websites, and code what interests me. <br>- Currently, I'm developing a webapp for data processing</h5>
+<h5 align="left">Hey! I'm Erin from Toronto<br><br>- 🔭 I’m a Computer Engineering Student at TMU<br>- 📚 I'm currently studying for my AWS Cloud Practitoner Cert<br>- ⚡ In my free time I love to create websites, and code what interests me. <br>- Currently, I'm developing a webapp for data processing!</h5>
 
 ###
 
