@@ -1,70 +1,69 @@
+<h1 align="center">Hey there 👋</h1>
+<p align="center"><i>Most of my repos are private</i></p>
+
+---
+
+## 👩‍💻 About Me
+
+Hi! I'm **Erin** from Toronto 🇨🇦  
+
+- 🎓 Studying **Computer Engineering** at **Toronto Metropolitan University (TMU)**, graduating in 2027  
+- 📊 Certified in **Data Science & Machine Learning** from **MIT** (2022)  
+- 💻 Passionate about **full-stack development, AI/ML, and security engineering**  
+- ⚡ I enjoy building websites, experimenting with new tools, and coding projects that challenge me  
+
+---
+
+## 💼 Experience
+
+- **FTTx Design Analyst Intern @ TelMAX (2025)**  
+
+- **Software Engineering Intern @ Venu AI (YC W21, 2024)**  
+
+- **Information Security Analyst Intern @ TSC Security (2024)**  
+
+- **Software Engineering Intern @ COBWEB (2023)**  
+
+- **Infrastructure Analyst Intern @ City of Vaughan (2021–2022)**  
+
+---
+
+## 🛠️ Skills
+
+**Languages & Frameworks:**  
+Python, JavaScript, TypeScript, Java, C, Swift, SQL, React, Next.js, Flask, VHDL, PostgreSQL  
+
+**Developer Tools:**  
+Git, Jira, Docker, Tableau, GCP, AWS, Azure ML  
+
+---
 
 
 
-<h1 align="center">hey there 👋 (Most of my repos are private)</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<h5 align="left">Hey! I'm Erin from Toronto<br><br>- 🔭 I’m a Computer Engineering Student at TMU<<br>- ⚡ In my free time I love to create websites, and code what interests me. </h5>
-<br>- Note: most of my repos are private</h5>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-
-
-###
+## 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErinTomorri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErinTomorri&show_icons=true&locale=en&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
-###
+---
 
-<div align="left">
-</div>
-
-
-
-<div align="left">
-</div>
-
-###
-###
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/erin-tomorri/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
-  <a href="erin@erintomorri.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  <a href="mailto:erin@erintomorri.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="30" />
   </a>
   <a href="https://www.erintomorri.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+    <img src="https://img.shields.io/badge/-Portfolio-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" height="30" />
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ErinTomorri.ErinTomorri&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ErinTomorri.ErinTomorri" alt="visitor badge"/>
 </div>
-
-###
-
-
-###
