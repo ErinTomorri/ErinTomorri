@@ -8,7 +8,7 @@
 Hi! I'm **Erin** from Toronto 🇨🇦  
 
 - 🎓 Studying **Computer Engineering** at **Toronto Metropolitan University (TMU)**, graduating in 2027  
-- 📊 Certified in **Data Science & Machine Learning** from **MIT** (2022)  
+- 📊 Certified in **Data Science & Machine Learning** from **MIT** (2022) 
 - 💻 Passionate about **full-stack development (LOVING IOS apps rn), AI/ML, and security engineering**  
 - ⚡ I enjoy building websites, experimenting with new tools, and coding projects that challenge me  
 
