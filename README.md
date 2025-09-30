@@ -1,5 +1,4 @@
 <h1 align="center">Hey there 👋</h1>
-<p align="center"><i>Most of my repos are private</i></p>
 
 ---
 
@@ -67,3 +66,6 @@ Git, Jira, Docker, Tableau, GCP, AWS, Azure ML
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ErinTomorri.ErinTomorri" alt="visitor badge"/>
 </div>
+
+
+<p align="center"><i>streak ruined cause of vacation :(</i></p>
