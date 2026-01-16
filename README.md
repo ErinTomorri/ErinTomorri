@@ -15,6 +15,8 @@ Hi! I'm **Erin** from Toronto 🇨🇦
 
 ## 💼 Experience
 
+- **iOS Apps (2025-hopefully forever)**  
+
 - **FTTx Design Analyst Intern @ TelMAX (2025)**  
 
 - **Software Engineering Intern @ Venu AI (YC W21, 2024)**  
