@@ -10,11 +10,13 @@ Hi! I'm **Erin** from Toronto 🇨🇦
 
 ## 💼 Experience
 
-- **iOS Apps (2025-hopefully forever)**  
+- **iOS Apps (2025-hopefully forever)**
+
+- ** Intern @ Backboard.io (2026)**
 
 - **FTTx Design Analyst Intern @ TelMAX (2025)**  
 
-- **Software Engineering Intern @ Venu AI (YC W21, 2024)**  
+- **Software Engineering Intern @ Venu AI YC W21 (2024)**  
 
 - **Information Security Analyst Intern @ TSC Security (2024)**  
 
