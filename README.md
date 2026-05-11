@@ -12,7 +12,7 @@ Hi! I'm **Erin** from Toronto 🇨🇦
 
 - **iOS Apps (2025-hopefully forever)**
 
-- ** Intern @ Backboard.io (2026)**
+- **Intern @ Backboard.io (2026)**
 
 - **FTTx Design Analyst Intern @ TelMAX (2025)**  
 
