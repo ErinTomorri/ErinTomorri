@@ -1,13 +1,3 @@
-<h1 align="center">Hey there 👋</h1>
-
----
-
-## About Me
-
-Hi! I'm **Erin** from Toronto 🇨🇦  
-
----
-
 ## 💼 Experience
 
 - **iOS Apps (2025-hopefully forever)**
@@ -23,19 +13,6 @@ Hi! I'm **Erin** from Toronto 🇨🇦
 - **Software Engineering Intern @ COBWEB (2023)**  
 
 - **Infrastructure Analyst Intern @ City of Vaughan (2021–2022)**  
-
----
-
-## 🛠️ Skills
-
-**Languages & Frameworks:**  
-Python, JavaScript, TypeScript, Java, C, Swift, SQL, React, Next.js, Flask, VHDL, PostgreSQL  
-
-**Developer Tools:**  
-Git, Jira, Docker, Tableau, GCP, AWS, Azure ML  
-
----
-
 
 
 ## 📊 GitHub Stats
