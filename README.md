@@ -2,17 +2,17 @@
 
 - **iOS Apps (2025-hopefully forever)**
 
-- **Intern @ Backboard.io (2026)**
+- **MTS @ Backboard.io (2026)**
 
-- **FTTx Design Analyst Intern @ TelMAX (2025)**  
+- **FTTx Analyst @ TelMAX (2025)**  
 
-- **Software Engineering Intern @ Venu AI YC W21 (2024)**  
+- **SWE @ Venu AI YC W21 (2024)**  
 
-- **Information Security Analyst Intern @ TSC Security (2024)**  
+- **Info Sec @ TSC Security (2024)**  
 
-- **Software Engineering Intern @ COBWEB (2023)**  
+- **SWE @ COBWEB (2023)**  
 
-- **Infrastructure Analyst Intern @ City of Vaughan (2021–2022)**  
+- **Corporate Asset Management @ City of Vaughan (2021–2022)**  
 
 
 ## 📊 GitHub Stats
